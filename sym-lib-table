@@ -1,4 +1,4 @@
 (sym_lib_table
-  (lib (name fly_bowl_wiring)(type Legacy)(uri ${KIPRJMOD}/fly_bowl_wiring.lib)(options "")(descr ""))
+  (lib (name sleep_assay_wiring)(type Legacy)(uri ${KIPRJMOD}/sleep_assay_wiring.lib)(options "")(descr ""))
   (lib (name components)(type Legacy)(uri ${KILIBS}/components.lib)(options "")(descr ""))
 )
