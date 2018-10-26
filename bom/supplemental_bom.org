@@ -1,4 +1,6 @@
 * Supplemental Bill of Materials
 #+RESULTS: supplemental-parts
-| Item | Quantity | PartNumber    | Vendor  | Description                              |
-|------+----------+---------------+---------+------------------------------------------|
+| Item | Quantity | PartNumber  | Vendor  | Description                    |
+|------+----------+-------------+---------+--------------------------------|
+|    1 |        3 | 492-1782-ND | digikey | LED HOLDER PNL CLIP 5MM BK NYL |
+|      |          |             |         |                                |
